@@ -63,17 +63,17 @@ Este é um sistema bancário simples desenvolvido em Python. Ele permite realiza
 
 1. Clone este repositório:
     ```sh
-    git clone https://github.com/seu-usuario/sistema-bancario-python.git
+    git clone https://github.com/seu-usuario/DIO_Sistema_bancario_POO.git
     ```
 
 2. Navegue até o diretório do projeto:
     ```sh
-    cd sistema-bancario-python
+    cd DIO_Sistema_bancario_POO
     ```
 
 3. Execute o script principal:
     ```sh
-    python sistema_bancario.py
+    python sistema_bancario_POO.py
     ```
 
 ### Exemplo de Uso
